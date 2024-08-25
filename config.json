@@ -1,0 +1,15 @@
+{
+    "TOKEN": "",
+    "COMMAND": "whitelist",
+    "ROLE_ID": [1263998300538015765, 1267588797642702879],
+    "NUM_QUESTIONS": 3,
+    "PASS_THRESHOLD": 0.6,
+    "LOG_CHANNEL_ID": 1270853541602263122,
+    "LANGUAGE": "en",
+    "givewhitelist": {
+        "COMMAND": "givewhitelist",
+        "ALLOWED_ROLES": [1263864001851555911, 1121122121]
+    }
+}
+
+

@@ -1,0 +1,42 @@
+{
+    "en": {
+        "check_dm": "Check your DMs",
+        "already_whitelisted": "You are already whitelisted.",
+        "not_enough_questions": "There are not enough questions available in questions.json.",
+        "time_expired": "Time expired! Please try running the command again.",
+        "success_message": "Congratulations! You passed the whitelist with a score of {percentage}%.",
+        "failure_message": "You did not pass the whitelist. You scored {percentage}%. Please try again.",
+        "error_dm": "I cannot send you private messages. Check your privacy settings.",
+        "error_general": "An error occurred during the whitelist process. Please try again later.",
+        "log_attempt": "{user} attempted the whitelist.",
+        "log_passed": "{user} passed the whitelist with a score of {percentage}%.",
+        "log_failed": "{user} did not pass the whitelist. Scored {percentage}%.",
+        "whitelist_question": "Whitelist Question",
+        "options": "Options",
+        "whitelist_attempt": "Whitelist Attempt",
+        "whitelist_passed": "Whitelist Passed",
+        "whitelist_failed": "Whitelist Failed",
+        "givewhitelist_success": "{giver} has granted whitelist to {receiver}.",
+        "givewhitelist_not_allowed": "You do not have permission to use this command."
+    },
+    "it": {
+        "check_dm": "Guarda i DM",
+        "already_whitelisted": "Sei già nella whitelist.",
+        "not_enough_questions": "Non ci sono abbastanza domande disponibili nel file questions.json.",
+        "time_expired": "Tempo scaduto! Per favore, riprova eseguendo nuovamente il comando.",
+        "success_message": "Complimenti! Hai superato la whitelist con un punteggio del {percentage}%.",
+        "failure_message": "Non hai superato la whitelist. Hai ottenuto un punteggio del {percentage}%. Riprova.",
+        "error_dm": "Non posso inviarti messaggi privati. Controlla le tue impostazioni di privacy.",
+        "error_general": "Si è verificato un errore durante il processo di whitelist. Per favore, riprova più tardi.",
+        "log_attempt": "{user} ha tentato la whitelist.",
+        "log_passed": "{user} ha superato la whitelist con un punteggio del {percentage}%.",
+        "log_failed": "{user} non ha superato la whitelist. Ha ottenuto un punteggio del {percentage}%.",
+        "whitelist_question": "Domanda di Whitelist",
+        "options": "Opzioni",
+        "whitelist_attempt": "Tentativo di Whitelist",
+        "whitelist_passed": "Whitelist Superata",
+        "whitelist_failed": "Whitelist Non Superata",
+        "givewhitelist_success": "{giver} ha assegnato la whitelist a {receiver}.",
+        "givewhitelist_not_allowed": "Non hai il permesso di usare questo comando."
+    }
+}
